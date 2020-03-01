@@ -1,0 +1,32 @@
+[
+  {
+    "clientInfo": {
+      "clientType": "CL",
+      "clientNumber": "1234",
+      "accountNumber": "0002",
+      "subAccountNumber": "0001"
+    },
+    "productInfo": {
+      "productCode": "FU",
+      "exchangeCode": "SGX",
+      "symbol": "NK",
+      "expirationDate": "20100910"
+    },
+    "totalTransactionAmount": 3
+  },
+  {
+    "clientInfo": {
+      "clientType": "CL",
+      "clientNumber": "4321",
+      "accountNumber": "0002",
+      "subAccountNumber": "0001"
+    },
+    "productInfo": {
+      "productCode": "FU",
+      "exchangeCode": "SGX",
+      "symbol": "NK",
+      "expirationDate": "20100910"
+    },
+    "totalTransactionAmount": 2
+  }
+]
